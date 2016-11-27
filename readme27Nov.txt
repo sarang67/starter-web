@@ -6,3 +6,5 @@
 
 
 1)change first: deployement
+
+2)change second: DIT server
