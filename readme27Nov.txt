@@ -8,3 +8,5 @@
 1)change first: deployement
 
 2)change second: DIT server
+
+3)change Third: SIT server
